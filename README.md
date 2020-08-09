@@ -1,3 +1,3 @@
 # Hackerrank
 
-#### This repository consists of Hackerrank solutions
+#### This repository consists of HackerRank solutions
